@@ -1,2 +1,6 @@
 # Project-1
-This is the project number 1 of Tec Bootcamp
+Team Members
+Jose Amieva
+Bruno Miranda
+Pedro Rossi
+Daniel Armando
