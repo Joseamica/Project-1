@@ -1,0 +1,3 @@
+https://www.yelp.com/dataset/documentation/main
+
+https://developers.google.com/hotels/hotel-prices/api-reference/v20/hotels-api-v2
