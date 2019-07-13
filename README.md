@@ -27,4 +27,12 @@
   <li>Do users rate local businesses higher?</li>
 </ul>
 
+<h2>Daniel's chosen questions</h2>
+<ul>
+  <li>Do users rate local businesses higher?</li>
+  <li>Which state has the more involved Yelp users? Basically, Yelp users per capita</li>
+  <li>Do users in Republican states rate Mexican restaurants lower?</li>
+</ul>
+
+
 <h2> Datasets </h2>
