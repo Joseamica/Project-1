@@ -39,6 +39,10 @@
   <li>Which state has the more involved Yelp users? Basically, Yelp users per capita</li>
   <li>Do users in Republican states rate Mexican restaurants lower?</li>
 </ul>
-
+<h2>Bruno's chosen questions</h2>
+<ul>
+  <li>Which extractable features from Yelp better describe the rating KPI?</li>
+</ul>
 
 <h2> Datasets </h2>
+  <li><a href=https://www.yelp.com/dataset>Yelp Open Dataset</a></li>
