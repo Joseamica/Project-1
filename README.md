@@ -27,6 +27,12 @@
   <li>Do users rate local businesses higher?</li>
 </ul>
 
+<h2>Jose's chosen questions</h2>
+<ul>
+  <li>Do smoking restaurants have a highest rating vs non smoking? </li>
+  <li>Which type of food restaurants are the highest rated ones?</li>
+  <li>Does 24/7 restaurants got</li>
+</ul>
 <h2>Daniel's chosen questions</h2>
 <ul>
   <li>Do users rate local businesses higher?</li>
