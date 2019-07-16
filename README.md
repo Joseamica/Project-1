@@ -44,5 +44,11 @@
   <li>Which extractable features from Yelp better describe the rating KPI?</li>
 </ul>
 
+<h2>Pedro's chosen questions</h2>
+<ul>
+  <li>Do gambling states have more businesses than other states?</li>
+  <li>Do gambling states have a different check in distribution that non-gambling states?</li>
+</ul>
+
 <h2> Datasets </h2>
   <li><a href=https://www.yelp.com/dataset>Yelp Open Dataset</a></li>
