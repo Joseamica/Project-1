@@ -14,7 +14,7 @@
 <p></p>
 
 <h2> Research Questions </h2>
-<p> What characteristics influence between a successful restaurant and a non successful Mexico according to yelp.</p>
+<p> What characteristics influence between a successful restaurant and a non successful one according to yelp.</p>
 
 <h4>Some sample questions</h4>
 <ul>
