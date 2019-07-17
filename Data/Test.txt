@@ -1,6 +1,0 @@
-
-strip_clubs = todos los lugares que contengan la palabra 'strip'
-
-restaurants_category = solo agarra los que tengan como categoría restaurant
-
-restaurants_open_24_7 = restaurants that are open all the time
