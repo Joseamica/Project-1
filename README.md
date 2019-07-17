@@ -47,7 +47,7 @@
 <h2>Pedro's chosen questions</h2>
 <ul>
   <li>Is there a correlation between the stars rating and the review length per user?</li>
-  <li>Is there a correlation between the stars rating and the tip count per business?</li>
+  <li>Is there a correlation between our KPI and the number of tips per business?</li>
 </ul>
 
 <h2> Datasets </h2>
