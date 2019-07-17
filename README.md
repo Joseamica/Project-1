@@ -46,8 +46,8 @@
 
 <h2>Pedro's chosen questions</h2>
 <ul>
-  <li>Do gambling states have more businesses than other states?</li>
-  <li>Do gambling states have a different check in distribution that non-gambling states?</li>
+  <li>Is there a correlation between the stars rating and the review length per user?</li>
+  <li>Is there a correlation between the stars rating and the tip count per business?</li>
 </ul>
 
 <h2> Datasets </h2>
