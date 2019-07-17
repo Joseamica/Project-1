@@ -105,3 +105,5 @@ venv.bak/
 *.json
 Data/yelp_dataset/Dataset_Challenge_Dataset_Agreement.pdf
 Data/yelp_dataset/Yelp_Dataset_Challenge_Round_13.pdf
+Data/yelp_business.csv
+Data/yelp_business.xlsx
