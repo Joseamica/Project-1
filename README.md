@@ -11,7 +11,7 @@
 
 
 <h2> Project Description </h2>
-<p></p>
+<p>Research Yelp dataset and get the following questions.</p>
 
 <h2> Research Questions </h2>
 <p> What characteristics influence between a successful restaurant and a non successful one according to yelp.</p>
