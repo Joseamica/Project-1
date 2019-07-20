@@ -1,4 +1,4 @@
-<h1> Cheleros </h1>
+<h1> Yelpers </h1>
 
 <h2>Team Members</h2>
 <ul>
