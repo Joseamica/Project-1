@@ -1,5 +1,5 @@
 <ul>Yelp API dataset .json format:
-<li>https://www.yelp.com/dataset.
+<li>https://www.yelp.com/dataset.</li>
 <li>Format code snippets for presentations:
 <li>https://romannurik.github.io/SlidesCodeHighlighter/
 <li>Github repository for this project:
