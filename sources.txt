@@ -1,13 +1,4 @@
 <ul>Yelp API dataset .json format:
 <li>https://www.yelp.com/dataset.</li>
-<li>Format code snippets for presentations:
-<li>https://romannurik.github.io/SlidesCodeHighlighter/
-<li>Github repository for this project:
-<li>https://github.com/Joseamica/Project-1
-<li>XGBoost documentation:
-<li>https://www.google.com/search?q=xgboost+documentation&oq=XGBoost+docum&aqs=chrome.1.69i57j0l5.6757j0j4&sourceid=chrome&ie=UTF-8
-<li>SKLearn documentation:
-<li>https://scikit-learn.org/stable/documentation.html
-<li>Reviews.csv 
-<li>https://wsi.li/BFYPYVEHJW3csW
+
 </ul>
